@@ -1,0 +1,24 @@
+{
+  "name": "let-compare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cwanyo/let-compare.git"
+  },
+  "keywords": [
+    "compare",
+    "deep-compare",
+    "react"
+  ],
+  "author": "Cwanyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cwanyo/let-compare/issues"
+  },
+  "homepage": "https://github.com/Cwanyo/let-compare#readme"
+}
